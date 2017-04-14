@@ -1,0 +1,108 @@
+#Contenedor{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+}
+
+body{
+	background-image: url(../img/emile.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h2{
+	font-family: verdana;
+	color: #004669;
+	margin-left: 20px;
+	font-size: 40px;
+	text-align: center;
+}
+
+h3{
+	font-family: verdana;
+	color: #004669;
+	margin-left: 20px;
+	font-size: 40px;
+	text-align: right;
+}
+
+header{
+	width: 1000px
+	height: 562px;
+	margin: 0px;
+}
+
+nav{
+	width: 995px;
+	height: 90px;
+	background: #ffffff;
+	border: solid;
+	border-color: #004669;
+	border-radius: 10px;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0; 
+}
+ul{
+	margin: auto;
+	padding-top: 4px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	margin: 4px;
+}
+
+a{
+	text-decoration: none;
+	font-size: 30px;
+	color: #004669;
+}
+
+section{
+
+	width: 700px;
+	background: white;
+	height: 600px;
+	float:	left;
+	margin-top: 20px;
+	border-radius: 10px;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0; 
+}
+
+aside{
+	width: 280px;
+	background: white;
+	height: 600px;
+	float:	left;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 10px;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0; 
+}
+
+footer{
+	width: 1000px;
+	height: 100px;
+	background: #004669;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+	margin-bottom: 20px;
+
+}
+
+p{
+	font-size: 15px;
+	font-weight: bolder;
+	line-height: 24px;
+	text-align: justify;
+	margin-left: 10px;
+	margin-right: 10px;
+}
